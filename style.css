@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+/* html {} 보다 body {} 가 더 좋음*/
+img {
+  border: 5px solid white;
+  width: 100%;
+}
+
+div {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 50px;
+  font-family: "Libre Baskerville", serif;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+}
